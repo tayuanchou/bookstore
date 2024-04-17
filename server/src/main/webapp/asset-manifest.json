@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/TaYuanBookstoreReactTransact/static/css/main.bf38e990.css",
+    "main.js": "/TaYuanBookstoreReactTransact/static/js/main.ea0eb7a9.js",
+    "static/js/787.d5fa4d18.chunk.js": "/TaYuanBookstoreReactTransact/static/js/787.d5fa4d18.chunk.js",
+    "static/media/juan-gomez-tgrwlTZXEtw-unsplash.jpg": "/TaYuanBookstoreReactTransact/static/media/juan-gomez-tgrwlTZXEtw-unsplash.b7e9b146633e075e6e74.jpg",
+    "static/media/the-sweetness-of-water.jpg": "/TaYuanBookstoreReactTransact/static/media/the-sweetness-of-water.18880269fee340e62fc4.jpg",
+    "static/media/dragons-love-tacos.jpg": "/TaYuanBookstoreReactTransact/static/media/dragons-love-tacos.a9acde6f55221c544c83.jpg",
+    "static/media/star-wars.jpg": "/TaYuanBookstoreReactTransact/static/media/star-wars.adc36e0aec9ea63e626e.jpg",
+    "static/media/everyone-poops.jpg": "/TaYuanBookstoreReactTransact/static/media/everyone-poops.4cbad1f9e97ff07a1726.jpg",
+    "static/media/crying-in-h-mart.jpg": "/TaYuanBookstoreReactTransact/static/media/crying-in-h-mart.4edaea2472078cff46f1.jpg",
+    "static/media/the-curious-garden.jpg": "/TaYuanBookstoreReactTransact/static/media/the-curious-garden.a1b3dd253117d26fec79.jpg",
+    "static/media/java-programming.jpg": "/TaYuanBookstoreReactTransact/static/media/java-programming.b14d8fc38e556e40ef12.jpg",
+    "static/media/twisted-love.jpg": "/TaYuanBookstoreReactTransact/static/media/twisted-love.f66afc2cd2e39e4c4c05.jpg",
+    "static/media/catch-22.jpg": "/TaYuanBookstoreReactTransact/static/media/catch-22.4e13feadbdd146a39ea4.jpg",
+    "static/media/grokking-deep-learning.jpg": "/TaYuanBookstoreReactTransact/static/media/grokking-deep-learning.222622046310b82ce0ea.jpg",
+    "static/media/all-the-light-we-cannot-see.jpg": "/TaYuanBookstoreReactTransact/static/media/all-the-light-we-cannot-see.35eb553999dcf7fedca9.jpg",
+    "static/media/r-for-data-science.jpg": "/TaYuanBookstoreReactTransact/static/media/r-for-data-science.8798688369c023efc95c.jpg",
+    "static/media/why.jpg": "/TaYuanBookstoreReactTransact/static/media/why.8bc8883c2a2152bff15c.jpg",
+    "static/media/web-development-with-django.jpg": "/TaYuanBookstoreReactTransact/static/media/web-development-with-django.cb27ac23865b2aa129a8.jpg",
+    "static/media/statistics.jpg": "/TaYuanBookstoreReactTransact/static/media/statistics.9b7abd62aaaac9830194.jpg",
+    "static/media/the-mist.jpg": "/TaYuanBookstoreReactTransact/static/media/the-mist.bb2f2806b9c815e4780e.jpg",
+    "static/media/userIcon.png": "/TaYuanBookstoreReactTransact/static/media/userIcon.45a0af68515332b42be9.png",
+    "static/media/cracking.jpg": "/TaYuanBookstoreReactTransact/static/media/cracking.c3666a988a8857295fad.jpg",
+    "static/media/the-day-the-crayons-quit.jpg": "/TaYuanBookstoreReactTransact/static/media/the-day-the-crayons-quit.0aedb9cea90fea48b075.jpg",
+    "static/media/dune.jpg": "/TaYuanBookstoreReactTransact/static/media/dune.6c33f0a8a497be786f17.jpg",
+    "static/media/open-book.png": "/TaYuanBookstoreReactTransact/static/media/open-book.df33df82480f405e3712.png",
+    "static/media/c++-primer.jpg": "/TaYuanBookstoreReactTransact/static/media/c++-primer.172b7c894434720d632d.jpg",
+    "index.html": "/TaYuanBookstoreReactTransact/index.html",
+    "static/media/searchIcon.svg": "/TaYuanBookstoreReactTransact/static/media/searchIcon.6d5ef3dedce593677489.svg",
+    "main.bf38e990.css.map": "/TaYuanBookstoreReactTransact/static/css/main.bf38e990.css.map",
+    "main.ea0eb7a9.js.map": "/TaYuanBookstoreReactTransact/static/js/main.ea0eb7a9.js.map",
+    "787.d5fa4d18.chunk.js.map": "/TaYuanBookstoreReactTransact/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf38e990.css",
+    "static/js/main.ea0eb7a9.js"
+  ]
+}
